@@ -5,3 +5,4 @@ url: jdbc:h2:mem:testdb
 sa/password
 
 По адресу http://localhost:8080/list возвращается список стран
+//todo Следующий этап HQL и liquibase
